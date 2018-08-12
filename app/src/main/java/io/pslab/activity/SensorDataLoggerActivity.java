@@ -78,8 +78,6 @@ public class SensorDataLoggerActivity extends AppCompatActivity {
     @BindView(R.id.layout_container)
     FrameLayout container;
 
-
-
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
